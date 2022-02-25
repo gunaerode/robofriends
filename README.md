@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+**STEP 1** : CLONE THE REPO
+**STEP 2** : RUN `npm i` or `npm install`
+**STEP 3** : `npm start`
+
+**Hurray! you got it.**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
